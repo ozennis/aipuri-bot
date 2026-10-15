@@ -1,0 +1,5 @@
+# 這些東西「不要」上傳到 GitHub
+.env
+videos/
+temp/
+__pycache__/
